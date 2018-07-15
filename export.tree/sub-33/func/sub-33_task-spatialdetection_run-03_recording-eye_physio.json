@@ -1,0 +1,16 @@
+{
+    "Type": "Spatial Detection - EYE",
+    "SamplingFrequency": 60.0,
+    "StartTime": 0,
+    "Columns": ["time", "trigger", "Pupil","X", "Y"],
+    "ScreenVisualAngle": [22, 16.5],
+    "degreePerPixel": 0.034,
+    "Note": "Use event onsets for analysis (no marker on data)",
+    "Note": "Interpolation was not applied for our analysis",
+    "Note": "becasue too-many-points-loss and RF/TR noise for some data",
+    "Note": "We excluded some data based on our criteria (e.g., more than 25% data loss)",
+    "Note": "Reliability would not be guaranteed (esp. older)",
+    "Note": "Please use your own or lab criteria with expertise, and enhance the usability/fidelity of the data",
+    "Note": "subs [08 31 41 43 44 45 48 52] were excluded from our analysis"
+}
+
