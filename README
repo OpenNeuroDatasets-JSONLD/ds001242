@@ -6,6 +6,8 @@ Mather, M., Yoo, H. J., Clewett, D. V., Lee, T. H., Greening, S. G., Ponzio, A.,
 
 Yoo, H. J., Thayer, J. F., Greening, S., Lee, T. H., Ponzio, A., Min, J., Sakaki, M., Nga, L., Mather, M., & Koenig, J. (2017). Brain structural concomitants of resting state heart rate variability in the young and old—Evidence from two independent samples. Brain Structure and Function. 
 
+Clewett, D., Lee, T.H., Greening, S., Ponzio, A., Margalit, E., & Mather, M. (2016). Neuromelanin marks the spot: Identifying a locus coeruleus biomarker of cognitive reserve in healthy aging. Neurobiology of Aging, 37, 117-126.
+
 
 A ‘participants’ text file indicates each participant’s age group and sex.
 
@@ -20,5 +22,5 @@ The ‘anat’ folder also includes hidden files. T1 neuromelanin contrast imagi
 3) func - all functional scans included in this folder with event timings indicated in .tsv files. Please see paper for more details. In addition, files included for associated ECG and pupil data.  
 
 
-Behavioral data and stimulation code associated with the project can be found at the project OSF page osf.io/zw8aj
+Behavioral data and stimulation code associated with the project can be found at the projects OSF page osf.io/zw8aj and https://osf.io/v2q4y/.
 
