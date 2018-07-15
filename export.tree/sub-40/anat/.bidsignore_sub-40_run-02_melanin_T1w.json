@@ -1,0 +1,7 @@
+{
+    "Description": "neuromelanin-weighted T1",
+    "RepetitionTime": 0.75,
+    "EchoTime": 0.12,
+    "FlipAngle": 120,
+    "InstitutionName": "University of Southern California",
+}
